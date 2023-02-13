@@ -1,8 +1,8 @@
-{
+[
   {
     "id":"abc123",
     "title":"Article 1",
     "description":"Description for Article 1"
     "published":"12 Feb 2023"
   }
-}
+]
